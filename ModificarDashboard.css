@@ -1,0 +1,62 @@
+/* Cambia el color del fondo del body */
+body {
+  background-color: #f2f2f2; /* Cambia el color de fondo a tu elección */
+}
+
+/* Cambia el color del fondo del encabezado (header) */
+.main-header {
+  background-color: #007BFF; /* Cambia el color de fondo del encabezado */
+  color: white; /* Cambia el color del texto del encabezado */
+}
+
+/* Cambia el color del texto del encabezado (header) */
+.main-header .logo {
+  color: white; /* Cambia el color del texto del encabezado */
+}
+
+/* Cambia el color del fondo del menú de navegación */
+.main-sidebar {
+  background-color: #343A40; /* Cambia el color de fondo del menú de navegación */
+  color: white; /* Cambia el color del texto del menú de navegación */
+}
+
+/* Cambia el color de fondo del menú desplegable */
+.main-sidebar .sidebar-menu .treeview-menu {
+  background-color: #495057; /* Cambia el color de fondo del menú desplegable */
+}
+
+/* Cambia el color de fondo de los elementos del menú desplegable al pasar el mouse sobre ellos */
+.main-sidebar .sidebar-menu .treeview-menu a:hover {
+  background-color: #212529; /* Cambia el color de fondo al pasar el mouse sobre los elementos del menú */
+  color: white; /* Cambia el color del texto al pasar el mouse sobre los elementos del menú */
+}
+
+/* Cambia el color de fondo de los elementos del menú activos */
+.main-sidebar .sidebar-menu .active a {
+  background-color: #007BFF; /* Cambia el color de fondo de los elementos del menú activos */
+  color: white; /* Cambia el color del texto de los elementos del menú activos */
+}
+
+/* Cambia el color de fondo de los elementos del menú al pasar el mouse sobre ellos */
+.main-sidebar .sidebar-menu a:hover {
+  background-color: #343A40; /* Cambia el color de fondo al pasar el mouse sobre los elementos del menú */
+  color: white; /* Cambia el color del texto al pasar el mouse sobre los elementos del menú */
+}
+
+/* Cambia el color del fondo del cuerpo principal del Dashboard */
+.content-wrapper {
+  background-color: white; /* Cambia el color de fondo del cuerpo principal del Dashboard */
+  color: #333; /* Cambia el color del texto del cuerpo principal */
+}
+
+/* Cambia el color de fondo de la barra lateral derecha (control deslizante) */
+.control-sidebar {
+  background-color: #007BFF; /* Cambia el color de fondo de la barra lateral derecha */
+  color: white; /* Cambia el color del texto de la barra lateral derecha */
+}
+
+/* Cambia el color de fondo de los elementos de la barra lateral derecha al pasar el mouse sobre ellos */
+.control-sidebar .control-sidebar-menu li a:hover {
+  background-color: #0056b3; /* Cambia el color de fondo al pasar el mouse sobre los elementos de la barra lateral derecha */
+  color: white; /* Cambia el color del texto al pasar el mouse sobre los elementos de la barra lateral derecha */
+}

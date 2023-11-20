@@ -1,0 +1,97 @@
+/* header title font */
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+.custom-table {
+  background-color: #E0FFFF;
+}
+ #datatable { font-size: 12px; 
+  
+ }
+ #datatable1 { font-size: 12px; 
+
+ }
+ #datatable2 { font-size: 12px; 
+  
+ }
+ 
+  .bs-select-all {
+        content: 'Seleccionar Todo';
+      }
+    
+ 
+ .align-right {
+      text-align: right;
+    }
+
+.skin-blue .main-header .logo {
+    height: 100px;  /* Ajusta la altura del encabezado según tus necesidades */
+  }
+  .custom-select-label {
+  font-size: 36px;
+}
+
+/* Aumenta la altura del encabezado del dashboard */
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Ajusta el estilo de los elementos del encabezado si es necesario */
+.header .logo {
+  /* Estilo del logo */
+}
+
+.header .sidebar-toggle {
+  /* Estilo del botón de alternar la barra lateral si lo tienes */
+}
+/* background color of header (logo part) */
+.skin-blue .main-header .logo {
+          background-color: midnightblue;
+        }
+        
+        
+/* change the background color of header (logo part) when mouse hover */
+.skin-blue .main-header .logo:hover {
+          background-color: #4682B4;
+        }
+        
+    .skin-blue .content-wrapper {
+  background-color: white; /* Cambia el color de fondo del cuerpo principal del Dashboard */
+  color: black; /* Cambia el color del texto del cuerpo principal */
+}
+/* background color for remaining part of the header */
+.skin-blue .main-header .navbar {
+                              background-color: midnightblue;
+                              } 
+                              
+/* main sidebar */
+        .skin-blue .main-sidebar {
+                              background-color: midnightblue;
+                              }
+
+/* active sidebar menu item */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+                              background-color: #DC143C;
+                              color:white;
+                              }
+
+/* sidebar menuitems */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu a{
+                              background-color:  #4169E1;
+                              color: white;
+                              }
+
+/* sidebar menuitems when mouse hover */
+         .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+                              background-color: #DC143C;
+                              color:white;
+                              }
+                              
+/* sidebar toggle button */           
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+                              background-color: white;
+                              }
